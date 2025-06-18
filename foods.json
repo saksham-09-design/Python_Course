@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Burger",
+        "price": 5.0
+    },
+    {
+        "id": 2,
+        "name": "Cheeze Pizza",
+        "price": 15.0
+    },
+    {
+        "id": 3,
+        "name": "Coke",
+        "price": 2.0
+    },
+    {
+        "id": 4,
+        "name": "Pasta",
+        "price": 8.0
+    },
+    {
+        "id": 5,
+        "name": "Pizza/Coke Combo",
+        "price": 20.0
+    }
+]

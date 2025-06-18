@@ -1,0 +1,18 @@
+Cafe Management System Invoice
+========================================
+Order ID: 2
+Date & Time: 2025-06-17 17:53:03
+Customer Name: Abhishek
+Customer Phone: 12345678
+========================================
+Items:
+Name                 Unit Price    Qty      Total
+----------------------------------------
+Burger               $     5.00      3 $    15.00
+Coke                 $     2.00      2 $     4.00
+Pizza/Coke Combo     $    20.00      1 $    20.00
+========================================
+Total Amount: $39.00
+========================================
+
+Thank you for your purchase!
